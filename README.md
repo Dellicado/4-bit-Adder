@@ -36,3 +36,6 @@ Sum = A ⊕ B ⊕ Carry-in
 Carry-out = (A AND B) OR (Carry-in AND (A ⊕ B))
 
 This design is ideal for demonstrating low-level digital logic, and can be extended to larger bit-widths or integrated into ALU modules for embedded systems or FPGA projects.
+
+
+![gate](https://github.com/user-attachments/assets/99d17773-6fe5-4b87-87c1-282fb45aaf9a)
